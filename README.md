@@ -5,7 +5,7 @@
 ## 🛠️ Languages and Tools
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,py,ts,matlab,react,c,bootstrap,tailwind,nodejs,mongodb,,vite,bash,git,ps,ai,ae&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,py,ts,matlab,react,c,tailwind,nodejs,mongodb,,vite,bash,git,ps,ai&perline=5" />
   </a>
 </p>
 
@@ -31,10 +31,4 @@
  
 </p>
 
-## ✍🏽 Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-
----
-[![](https://visitcount.itsvg.in/api?id=pi22by7&icon=0&color=5)](https://sankarshan07.me)
