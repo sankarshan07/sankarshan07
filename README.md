@@ -5,36 +5,30 @@
 ## 🛠️ Languages and Tools
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=c,java,py,ts,matlab,react,tailwind,nodejs,mongodb,,arduino,idea,blender,unreal,docker,vite,bash,git,ableton,ps,ai,ae&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,py,ts,matlab,react,c,bootstrap,tailwind,nodejs,mongodb,,vite,bash,git,ps,ai,ae&perline=5" />
   </a>
 </p>
 
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics 
 <p align="center">
- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pi22by7&theme=tokyonight" alt="stats" />
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankarshan07&theme=tokyonight" alt="stats" />
   <br><br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pi22by7&theme=tokyonight" alt="langs" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sankarshan07&theme=tokyonight" alt="langs" />
   &nbsp;&nbsp;
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pi22by7&theme=tokyonight" alt="stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sankarshan07&theme=tokyonight" alt="stats" />
 </p>
 
 ## 🎙️ Connect with me
 <p align="center">
- <a href="https://twitter.com/piratesoutoften" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piratesoutoften" height="30" width="40" />
+ 
+ <a href="https://www.linkedin.com/in/sankarshan-desai-94a026268/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankarshan" height="30" width="40" />
  </a>
- <a href="https://linkedin.com/in/piyush-airani" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-airani" height="30" width="40" />
+ <a href="https://www.instagram.com/sankarshan_desai/?igsh=Z2hiOXdqcmQwZ2F2" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankarshan" height="30" width="40" />
  </a>
- <a href="https://instagram.com/pi_22by7" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pi_22by7" height="30" width="40" />
- </a>
- <a href="https://medium.com/@piyushstuff" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@piyushstuff" height="30" width="40" />
- </a>
- <a href="https://www.leetcode.com/pi22by7" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pi22by7" height="30" width="40" />
- </a>
+
+ 
 </p>
 
 ## ✍🏽 Blogs posts
